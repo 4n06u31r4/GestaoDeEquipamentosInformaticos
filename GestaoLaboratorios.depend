@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1479927370 source:c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+
+1481564533 xiliares.h"
+
+1479917308 c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios\funcoesauxiliares.h
+
+1479920931 source:c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562354 source:c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios - fase 1\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562354 c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios - fase 1\funcoesauxiliares.h
+
+1481564879 source:c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios - fase 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481564879 nus.h"
+
+1481560083 c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios - fase 1\funcoesmenus.h
+
+1481564533 source:c:\meus_dados\01_escola\01_cursos\05_programacao\2016-2017\gestaolaboratorios - fase 1\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481562356 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/GestaoLaboratorios - Fase 1/funcoesAuxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 /Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/GestaoLaboratorios - Fase 1/funcoesAuxiliares.h
+
+1481564534 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/GestaoLaboratorios - Fase 1/funcoesMenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 /Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/GestaoLaboratorios - Fase 1/funcoesMenus.h
+
+1481564880 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/GestaoLaboratorios - Fase 1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/Projeto_Fase1_Resolucao/funcoesAuxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 /Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/Projeto_Fase1_Resolucao/funcoesAuxiliares.h
+
+1481564534 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/Projeto_Fase1_Resolucao/funcoesMenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 /Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/Projeto_Fase1_Resolucao/funcoesMenus.h
+
+1481860115 source:/Users/thread/VNTAVORA/cad_lecc/cp1/a1617/P1_EI1617/TrabPratico/resolucao_parte1/Projeto_Fase1_Resolucao/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\andre nogueira\desktop\p1_2016_2017_projeto_fase1_resolucao\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\andre nogueira\desktop\p1_2016_2017_projeto_fase1_resolucao\funcoesauxiliares.h
+
+1481564534 source:c:\users\andre nogueira\desktop\p1_2016_2017_projeto_fase1_resolucao\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\andre nogueira\desktop\p1_2016_2017_projeto_fase1_resolucao\funcoesmenus.h
+
+1483377368 source:c:\users\andre nogueira\desktop\p1_2016_2017_projeto_fase1_resolucao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\andre nogueira\desktop\parte 2\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\andre nogueira\desktop\parte 2\funcoesauxiliares.h
+
+1481564534 source:c:\users\andre nogueira\desktop\parte 2\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\andre nogueira\desktop\parte 2\funcoesmenus.h
+
+1483559441 source:c:\users\andre nogueira\desktop\parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\andre nogueira\desktop\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\andre nogueira\desktop\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\andre nogueira\desktop\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\andre nogueira\desktop\parte 2 final\funcoesmenus.h
+
+1484315043 source:c:\users\andre nogueira\desktop\parte 2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\francisco gaspar\desktop\parte-2-final\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\francisco gaspar\desktop\parte-2-final\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\francisco gaspar\desktop\parte-2-final\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\francisco gaspar\desktop\parte-2-final\parte 2 final\funcoesmenus.h
+
+1484428603 source:c:\users\francisco gaspar\desktop\parte-2-final\parte 2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\desktop\desktop\parte-2-final\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\desktop\desktop\parte-2-final\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\desktop\desktop\parte-2-final\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\desktop\desktop\parte-2-final\parte 2 final\funcoesmenus.h
+
+1484536769 source:c:\users\desktop\desktop\parte-2-final\parte 2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\francisco gaspar\desktop\parte-2-finalv2\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\francisco gaspar\desktop\parte-2-finalv2\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\francisco gaspar\desktop\parte-2-finalv2\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\francisco gaspar\desktop\parte-2-finalv2\parte 2 final\funcoesmenus.h
+
+1484543198 source:c:\users\francisco gaspar\desktop\parte-2-finalv2\parte 2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\francisco gaspar\desktop\parte 2 final final\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\francisco gaspar\desktop\parte 2 final final\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\francisco gaspar\desktop\parte 2 final final\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\francisco gaspar\desktop\parte 2 final final\parte 2 final\funcoesmenus.h
+
+1484545572 source:c:\users\francisco gaspar\desktop\parte 2 final final\parte 2 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+	"funcoesMenus.h"
+
+1481562356 source:c:\users\francisco gaspar\desktop\projeto final - andre nogueira francisco gaspar\parte 2 final\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesAuxiliares.h"
+
+1481562356 c:\users\francisco gaspar\desktop\projeto final - andre nogueira francisco gaspar\parte 2 final\funcoesauxiliares.h
+
+1481564534 source:c:\users\francisco gaspar\desktop\projeto final - andre nogueira francisco gaspar\parte 2 final\funcoesmenus.c
+	<stdio.h>
+	<ctype.h>
+	"funcoesMenus.h"
+	"funcoesAuxiliares.h"
+
+1481560084 c:\users\francisco gaspar\desktop\projeto final - andre nogueira francisco gaspar\parte 2 final\funcoesmenus.h
+

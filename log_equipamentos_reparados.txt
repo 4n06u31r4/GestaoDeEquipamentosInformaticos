@@ -1,0 +1,11 @@
+pos: 1
+ Numero da avaria: 2
+ Data: 01 - 10 - 2014
+ Numero Inventario do equipamento: 1
+ Descricao: 13312SDA
+ Custo da reparacao: 500.000000pos: 0
+ Numero da avaria: 1
+ Data: 01 - 10 - 2014
+ Numero Inventario do equipamento: 1
+ Descricao: 123132
+ Custo da reparacao: 200.000000
